@@ -1,0 +1,24 @@
+.Table table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.Table td, .Table th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+.Table td {
+    text-align: center;
+}
+
+.false_cell {
+    background: #fcf2b8
+}
+.Table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background: #4CAF50;
+    color: white
+
+}
